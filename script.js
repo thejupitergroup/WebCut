@@ -501,7 +501,7 @@ class TextLayer extends MoveableLayer {
       name: text
     };
     super(f);
-    this.color = "#e3e3e3";
+    this.color = "#ffffff";
     this.shadow = true;
     this.ready = true;
   }
