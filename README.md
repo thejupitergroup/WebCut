@@ -26,7 +26,7 @@ The design is meant for simple and quick projects, and not for full professional
   - Click "Download" to save the `.webm` video.
   
 <p align="center">
-  <br>Editing Example:<br>
+  Editing Example:<br>
 <img src="https://github.com/bwasti/mebm/blob/main/README_assets/usage.gif?raw=true" width="70%">
   <br>Video Sample:<br>
 <img src="https://github.com/bwasti/mebm/blob/main/README_assets/result.gif?raw=true" width="30%">
