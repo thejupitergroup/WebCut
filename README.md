@@ -43,6 +43,10 @@ To get the source code for Bram Wasti's 'mebm', visit [the Github repository](ht
 
 The images, videos, and GIFs used in the example project and this README.md file are provided by Bram Wasti and their original project.
 
+## reset.css
+
+The code for the `reset.css` file was provited by [Richard Clark](http://richclarkdesign.com).
+
 ## Desing and UI
 
 WebCut's UI is based off of Google's Material Design system, which can be found [here](https://m3.material.io/).
