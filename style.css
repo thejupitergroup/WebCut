@@ -9,6 +9,18 @@ html, body {
   font-family: 'ScriptWriter';
 }
 
+::-moz-selection {
+  background: #004a77;
+  color: #e3e3e3;
+  text-shadow: none;
+}
+
+::selection {
+  background: #004a77;
+  color: #e3e3e3;
+  text-shadow :none;
+}
+
 ::-webkit-scrollbar {
   /* -webkit-appearance: none; */
   display: none;
