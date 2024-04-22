@@ -11,13 +11,13 @@ html, body {
 
 ::-moz-selection {
   background: #ffb787;
-  color: #f0dfd7;
+  color: #362112;
   text-shadow: none;
 }
 
 ::selection {
   background: #ffb787;
-  color: #f0dfd7;
+  color: #362112;
   text-shadow :none;
 }
 
@@ -73,10 +73,10 @@ div.settings .holder label:after { content: ":"; }
 }
 .popup .close {
   float: right;
-  color: #4f3625;
+  color: #ffb787;
 }
 .popup div a {
-  color: #4f3625;
+  color: #ffb787;
 }
 .popup div {
 text-align: center;
