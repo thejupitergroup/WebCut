@@ -37,7 +37,7 @@ The design is meant for simple and quick projects, and not for full professional
 
 This project couldn't have been done without the excellent work of Bram Wasti and their projects 'mebm' and 'jott'.
 
-To get the source code for Bram Wasti's 'mebm', visit [the Github repository](https://github.com/bwasti/mebm/).
+To get the source code for Bram Wasti's 'mebm', visit [the GitHub repository](https://github.com/bwasti/mebm/).
 
 ## Images and Videos
 
@@ -57,7 +57,7 @@ Courier Scriptwriter (under the name 'ScriptWriter') was designed by in-house wo
 
 Arial (under the name 'sans-serif') is a trademark of Monotype Imaging, Inc. All rights reserved.
 
-Liberation Sans (under the name 'sans-serif') is a free and open source font, which can be found at [this Github repository](https://github.com/liberationfonts/liberation-fonts).
+Liberation Sans (under the name 'sans-serif') is a free and open source font, which can be found at [this GitHub repository](https://github.com/liberationfonts/liberation-fonts).
 
 ### Other Fonts
 
