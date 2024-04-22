@@ -45,7 +45,7 @@ The images, videos, and GIFs used in the example project and this README.md file
 
 ## reset.css
 
-The code for the `reset.css` file was provited by [Richard Clark](http://richclarkdesign.com).
+The code for the `reset.css` file was provited by [Richard Clark](http://richclarkdesign.com) and the [html5doctor.com](https://html5doctor.com) Reset Stylesheet.
 
 ## Desing and UI
 
