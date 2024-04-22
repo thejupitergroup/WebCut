@@ -11,13 +11,13 @@ html, body {
 
 ::-moz-selection {
   background: #ffb787;
-  color: #4f3625;
+  color: #f0dfd7;
   text-shadow: none;
 }
 
 ::selection {
   background: #ffb787;
-  color: #4f3625;
+  color: #f0dfd7;
   text-shadow :none;
 }
 
@@ -73,10 +73,10 @@ div.settings .holder label:after { content: ":"; }
 }
 .popup .close {
   float: right;
-  color: #f0dfd7;
+  color: #4f3625;
 }
 .popup div a {
-  color: #f0dfd7;
+  color: #4f3625;
 }
 .popup div {
 text-align: center;
@@ -87,7 +87,7 @@ text-align: center;
 
 #background {
   z-index: 0;
-  background: #ffb787;
+  background: #713704;
   overflow: hidden;
 }
 
@@ -184,18 +184,18 @@ a:visited {
 }
 
 #layers div {
-  border-left: solid rgba(79, 54, 37, 0) 4px;
+  border-left: solid rgba(79,54,37,0) 4px;
 }
 
 #layers .selected {
-  color: rgb(196,199,197);
-  background-color: rgb(79, 54, 37);
-  border-left: solid rgb(255, 183, 135) 4px;
+  color: rgb(255,220,199);
+  background-color: rgb(79,54,37);
+  border-left: solid rgb(113,55,4) 4px;
 }
 
 #foreground #time {
   position: absolute;
-  background: rgb(54, 33, 18);
+  background: rgb(79,54,37);
   right: 0;
   left: 0;
   bottom: 0;
