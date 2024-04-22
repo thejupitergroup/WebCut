@@ -176,6 +176,7 @@ a:visited {
 
 #layers .preview_thumb {
   background: black;
+  background-color: rgba(79,54,37,0);
   width: 30%;
 }
 
