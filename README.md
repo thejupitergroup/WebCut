@@ -1,11 +1,10 @@
-# Aurorasoft Videographer
+# WebCut
 
-[Use an Example Project](https://videographer.pages.dev/#https%3A%2F%2Fjott.live%2Fraw%2Ftutorial.json)
+[Use an Example Project](https://webcut.pages.dev/#https%3A%2F%2Fjott.live%2Fraw%2Ftutorial.json)
 
-[Start from Scratch](https://videographer.pages.dev/)
+[Start from Scratch](https://webcut.pages.dev/)
 
-
-Videographer is a browser-based video editor that lets you animate text and images. The animations are done with key-frames (denoted in blue on the Timeline) and linear interpolation.
+WebCut is a browser-based video editor that lets you animate text and images. The animations are done with key-frames (denoted in blue on the Timeline) and linear interpolation.
 
 The design is meant for simple and quick projects, and not for full professional use.
 
@@ -46,11 +45,11 @@ The images, videos, and GIFs used in the example project and this README.md file
 
 ## Desing and UI
 
-Videographer's user interface is based off of Google's Material Design system, which can be found [here](https://m3.material.io/).
+WebCut's UI is based off of Google's Material Design system, which can be found [here](https://m3.material.io/).
 
 ## Fonts
 
-Courier Scriptwriter (under the name 'ScriptWriter') was designed by in-house workers at Aurorasoft.
+Courier Scriptwriter (under the name 'ScriptWriter') was designed by in-house workers at Jupiter Group.
 
 Arial (under the name 'sans-serif') is a trademark of Monotype Imaging, Inc. All rights reserved.
 
