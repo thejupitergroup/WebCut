@@ -106,7 +106,7 @@ text-align: center;
 
 #layer_holder {
   position: absolute;
-  background: rgb(47,27,12);
+  background: rgb(54,33,18);
   overflow: scroll;
   scrollbar-width: none;
   right: 0;
@@ -184,7 +184,7 @@ a:visited {
 }
 
 #layers div {
-  border-left: solid rgba(79,54,37,0) 4px;
+  border-left: solid rgb(79,54,37) 4px;
 }
 
 #layers .selected {
