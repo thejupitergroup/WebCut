@@ -453,7 +453,7 @@ class MoveableLayer extends RenderedLayer {
     for (let i = 0; i < this.frames.length; ++i) {
       if (this.is_anchor(i)) {
         let anchor_x = this.start_time + 1000 * (i / fps);
-        ctx.fillStyle = `rgb(0,74,119)`;
+        ctx.fillStyle = `rgb(255,183,135)`;
         ctx.fillRect(scale * anchor_x, y_coord - width / 2, 3, width);
       }
     }

@@ -11,13 +11,13 @@ html, body {
 
 ::-moz-selection {
   background: #ffb787;
-  color: #362112;
+  color: #502400;
   text-shadow: none;
 }
 
 ::selection {
   background: #ffb787;
-  color: #362112;
+  color: #502400;
   text-shadow :none;
 }
 
