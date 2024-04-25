@@ -189,7 +189,7 @@ a:visited {
 
 #layers .selected {
   color: rgb(192,200,213);
-  background-color: rgb(43,47,51);
+  background-color: linear-gradient(310.16deg,#272130 18.64%,#16222e 82.88%),linear-gradient(0deg,#fff,#fff);
   border-left: solid rgb(169,225,250) 4px;
 }
 
