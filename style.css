@@ -188,8 +188,8 @@ a:visited {
 }
 
 #layers .selected {
-  color: rgb(255,220,199);
-  background-color: rgba(43,47,51,0);
+  color: rgb();
+  background-color: rgb(43,47,51);
   border-left: solid rgb(169,225,250) 4px;
 }
 
