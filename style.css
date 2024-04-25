@@ -184,12 +184,12 @@ a:visited {
 }
 
 #layers div {
-  border-left: solid rgb(31,31,31) 4px;
+  border-left: solid rgb(40,41,42) 4px;
 }
 
 #layers .selected {
   color: rgb();
-  background-color: rgb(31,31,31);
+  background-color: rgb(37,44,58);
   border-left: solid rgb(169,225,250) 4px;
 }
 
