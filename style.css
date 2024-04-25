@@ -106,7 +106,7 @@ text-align: center;
 
 #layer_holder {
   position: absolute;
-  background: rgb(40,41,42);
+  background: rgb(31,31,31);
   overflow: scroll;
   scrollbar-width: none;
   right: 0;
