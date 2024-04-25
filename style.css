@@ -189,13 +189,13 @@ a:visited {
 
 #layers .selected {
   color: rgb();
-  background-color: rgb(43,47,51);
+  background-color: rgb(31,31,31);
   border-left: solid rgb(169,225,250) 4px;
 }
 
 #foreground #time {
   position: absolute;
-  background: rgb(31,31,31);
+  background: rgb(43,47,51);
   right: 0;
   left: 0;
   bottom: 0;
