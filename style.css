@@ -121,6 +121,7 @@ text-align: center;
   display: none;
   position: absolute;
   background: black;
+  box-shadow: 0em 0px 16px 0px #abe4fd;
   z-index: 6;
   text-align:center;
   color: white;
