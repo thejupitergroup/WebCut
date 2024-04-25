@@ -196,9 +196,9 @@ class RenderedLayer {
     let start = scale * this.start_time;
     let length = scale * this.total_time;
     if (selected) {
-      ctx.fillStyle = `rgb(227,227,227)`;
+      ctx.fillStyle = `rgb(192,200,213)`;
     } else {
-      ctx.fillStyle = `rgb(227,227,227)`;
+      ctx.fillStyle = `rgb(192,200,213)`;
     }
     ctx.fillRect(start, y_coord - width / 2, length, width);
     let end_width = width * 6;
@@ -453,7 +453,7 @@ class MoveableLayer extends RenderedLayer {
     for (let i = 0; i < this.frames.length; ++i) {
       if (this.is_anchor(i)) {
         let anchor_x = this.start_time + 1000 * (i / fps);
-        ctx.fillStyle = `rgb(255,183,135)`;
+        ctx.fillStyle = `rgb(171,228,253)`;
         ctx.fillRect(scale * anchor_x, y_coord - width / 2, 3, width);
       }
     }
@@ -1337,7 +1337,7 @@ class Player {
     this.last_step = realtime;
     this.time_ctx.clearRect(0, 0, this.time_canvas.clientWidth, this.time_canvas.clientWidth);
     let x = this.time_canvas.clientWidth * this.time / this.total_time;
-    this.time_ctx.fillStyle = `rgb(196,199,197)`;
+    this.time_ctx.fillStyle = `rgb(192,200,213)`;
     this.time_ctx.fillRect(x, 0, 2, this.time_canvas.clientHeight);
     this.time_ctx.font = "10px courier";
     this.time_ctx.fillText(this.time.toFixed(2), x + 5, 10);
@@ -1345,7 +1345,7 @@ class Player {
 
     if (this.aux_time > 0) {
       let aux_x = this.time_canvas.clientWidth * this.aux_time / this.total_time;
-      this.time_ctx.fillStyle = `rgb(196,199,197)`;
+      this.time_ctx.fillStyle = `rgb(192,200,213)`;
       this.time_ctx.fillRect(aux_x, 0, 1, this.time_canvas.clientHeight);
       this.render(this.cursor_ctx, this.aux_time, false);
     }
