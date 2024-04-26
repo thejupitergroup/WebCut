@@ -1339,7 +1339,7 @@ class Player {
     let x = this.time_canvas.clientWidth * this.time / this.total_time;
     this.time_ctx.fillStyle = `rgb(192,200,213)`;
     this.time_ctx.fillRect(x, 0, 2, this.time_canvas.clientHeight);
-    this.time_ctx.font = "10px courier";
+    this.time_ctx.font = "10px sans-serif";
     this.time_ctx.fillText(this.time.toFixed(2), x + 5, 10);
     this.time_ctx.fillText(this.total_time.toFixed(2), x + 5, 20);
 
@@ -1451,7 +1451,7 @@ window.addEventListener('keydown', function(ev) {
     player.split();
   } else if (ev.code == "KeyI") {
     if (ev.ctrlKey) {
-      let uris = prompt("paste comma separated list of URLs").replace(/ /g, '');
+      let uris = prompt("Paste comma separated list of URLs").replace(/ /g, '');
       let encoded = encodeURIComponent(uris);
       location.hash = encoded;
     }
@@ -1582,7 +1582,7 @@ function uploadSupportedType(files) {
     const text = document.createElement('div');
     text.style.textAlign = "left";
     text.innerHTML = `
-    The file(s) you uploaded are not supported:
+    The selected file(s) are not supported:
     <br>
     <br>
     ${badFiles}
