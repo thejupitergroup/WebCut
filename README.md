@@ -53,7 +53,7 @@ WebCut's UI is based off of Google's Material Design system, which can be found 
 
 ## Fonts
 
-Courier Scriptwriter (under the name 'ScriptWriter') was designed by in-house workers at Jupiter Group.
+Editor Sans Text (under the name 'Editor-Sans') was designed by in-house workers at Jupiter Group.
 
 Arial (under the name 'sans-serif') is a trademark of Monotype Imaging, Inc. All rights reserved.
 
