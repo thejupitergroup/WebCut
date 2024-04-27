@@ -183,6 +183,7 @@ a:visited {
 #layers .preview_thumb {
   background: black;
   width: 30%;
+  border-radius: 30px;
 }
 
 #layers .preview_title input {
