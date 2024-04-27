@@ -127,6 +127,7 @@ text-align: center;
   position: absolute;
   background: black;
   box-shadow: 0em 0px 16px 0px #abe4fd;
+  border-radius: 30px;
   z-index: 6;
   text-align:center;
   color: white;
@@ -183,7 +184,6 @@ a:visited {
 #layers .preview_thumb {
   background: black;
   width: 30%;
-  border-radius: 30px;
 }
 
 #layers .preview_title input {
