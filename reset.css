@@ -7,14 +7,9 @@ Twitter: @rich_clark
 */
 
 @font-face {
-    font-family: ScriptWriter;
-    src: url(/scriptwriter.ttf);
-  }
-  
-@font-face {
-    font-family: Editor-Sans;
-    src: url(/editorsans-text.ttf);
-  }
+    font-family: 'Courier WebCut';
+    src: url(/CourierWebCut.ttf);
+}
 
 html, body, div, span, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -33,7 +28,7 @@ time, mark, audio, video {
     border:0;
     outline:0;
     font-size:100%;
-    font-family: 'Editor-Sans';
+    font-family: 'Courier WebCut';
     vertical-align:baseline;
     background:transparent;
 }
@@ -65,7 +60,7 @@ a {
     margin:0;
     padding:0;
     font-size:100%;
-    font-family: 'Editor-Sans';
+    font-family: 'Courier WebCut';
     vertical-align:baseline;
     background:transparent;
 }
@@ -81,7 +76,7 @@ ins {
 mark {
     background-color:#e3e3e3;
     color:#1f1f1f;
-    font-family: 'Editor-Sans';
+    font-family: 'Courier WebCut';
 }
 
 del {
